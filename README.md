@@ -1,4 +1,4 @@
-# Gatsby + Cosmic
+# Gatsby + Cosmic for mukeshrajpulime blog
 
 ![gatsby-blog-cosmicjs](https://cdn.cosmicjs.com/fe5196f0-42c2-11ea-8d10-df553329919a-gatsby-blog-cosmic.png "The index page of the starter blog")
 
